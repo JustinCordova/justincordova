@@ -1,64 +1,70 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Justin Cordova</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- Background video -->
+    <video autoplay muted loop id="bg-video">
+      <source src="video/background.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+
+    <!-- Header section -->
     <header>
-        <h1>Justin Cordova</h1>
-        <nav>
-            <ul>
-                <li><a href="#about">About Me</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#experience">Experience</a></li>
-                <li><a href="#education">Experience</a></li>
-                <li><a href="#services">Experience</a></li>
-                <li><a href="#photography">Photography</a></li>
-                <li><a href="contact.html">Contact</a></li>
-            </ul>
-        </nav>
+      <h1>Justin Cordova</h1>
+      <nav>
+        <ul>
+          <li><a href="about.html">About</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#experience">Experience</a></li>
+          <li><a href="#education">Education</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#photography">Photography</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
     </header>
-    
+
+    <!-- Main content -->
     <main>
-        <section id="about">
-            <h2>About Me</h2>
-            <p>I'm [Your Name], a passionate [Your Profession]. I enjoy [Your Interests].</p>
-        </section>
-        
-        <section id="projects">
-            <h2>Projects</h2>
-            <p>Here are some of my projects:</p>
-            <ul>
-                <li>Project 1: Description</li>
-                <li>Project 2: Description</li>
-                <li>Project 3: Description</li>
-            </ul>
-        </section>
-        
-        <section id="experience">
-            <h2>Experience</h2>
-            <p>Here's a summary of my professional experience:</p>
-            <ul>
-                <li>Job Title at Company</li>
-                <li>Job Title at Company</li>
-            </ul>
-        </section>
-        
-        <section id="photography">
-            <h2>Photography</h2>
-            <p>Here are some of my favorite photos:</p>
-            <img src="photo1.jpg" alt="Description of photo 1">
-            <img src="photo2.jpg" alt="Description of photo 2">
-        </section>
+      <!-- Thin Rectangle Pause/Play Button -->
+      <div class="controls">
+        <div id="play-pause-button" onclick="togglePlayPause()"></div>
+      </div>
+
+      <div class="song-list">
+        <div
+          class="song-item"
+          onclick="playSong('audio/My Castle Town - Undertale.mp3')"
+        >
+          <img src="img/song-art1.jpeg" alt="Song Art 1" class="song-art" />
+        </div>
+        <div
+          class="song-item"
+          onclick="playSong('audio/Merry-Go-Round Piano - Joe Hisaishi.mp3')"
+        >
+          <img src="img/song-art2.jpeg" alt="Song Art 2" class="song-art" />
+        </div>
+        <div
+          class="song-item"
+          onclick="playSong('audio/Rue des trois frères - Frabrizio Paterlini.mp3')"
+        >
+          <img src="img/song-art3.jpeg" alt="Song Art 3" class="song-art" />
+        </div>
+      </div>
     </main>
-    
+
+    <!-- Footer section -->
     <footer>
-        <p>&copy; 2024 My Portfolio</p>
+      <p>&copy; 2024 Justin Cordova</p>
     </footer>
 
-    <script src="script.js"></script>
-</body>
+    <audio id="audio-player" style="display: none"></audio> <!-- Hidden audio player -->
+
+    <script src="script.js"></script> <!-- External JavaScript file -->
+  </body>
 </html>

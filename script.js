@@ -10,9 +10,15 @@ function playSong(songPath) {
 
 // Automatically play the first song when the page loads and set default volume
 window.onload = function() {
+  audioPlayer.volume = 0; // Start muted to allow autoplay
   playSong('audio/My Castle Town - Undertale.mp3');
-  setVolume(0.2); // Set volume to 20%
+  
+  // After autoplay starts, unmute and set to the desired volume
+  setTimeout(() => {
+    setVolume(0.2); // Set volume to 20% after unmuting
+  }, 1000); // 1 second delay to ensure autoplay starts
 };
+
 
 // Set volume function
 function setVolume(volume) {

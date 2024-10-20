@@ -5,18 +5,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Justin Cordova</title>
     <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Cabin&display=swap">
+
   </head>
   <body>
-    <!-- Background video -->
+    <!-- Cursor dot 
+    <div class="cursor-dot" id="custom-cursor"></div> -->
+    <!-- Background video 
     <video autoplay muted loop id="bg-video">
       <source src="video/background.mp4" type="video/mp4" />
       <source src="video/background.webm" type="video/webm" />
       Your browser does not support the video tag.
-    </video>
+    </video> -->
 
     <!-- Header section -->
     <header>
-      <h1>Justin Cordova</h1>
+      <h1>
+        <span>j</span><span>u</span><span>s</span><span>t</span><span>i</span><span>n</span>
+        <span> </span>
+        <span>c</span><span>o</span><span>r</span><span>d</span><span>o</span><span>v</span><span>a</span>
+    </h1>
       <nav>
         <ul>
           <li><a href="about.html">About</a></li>
@@ -41,21 +50,21 @@
         <div class="song-list">
           <div
             class="song-item"
-            onclick="playSong('audio/My Castle Town - Undertale.mp3')"
+            onclick="playSong('audio/Pretty Girls Make Graves - The Smiths.mp3')"
           >
-            <img src="img/song-art1.jpeg" alt="Song Art 1" class="song-art" />
+            <img src="img/PrettyGirlsMakeGraves.jpeg" alt="Song Art 1" class="song-art" />
           </div>
           <div
             class="song-item"
-            onclick="playSong('audio/Merry-Go-Round Piano - Joe Hisaishi.mp3')"
+            onclick="playSong('audio/Her - The American Dawn.mp3')"
           >
-            <img src="img/song-art2.jpeg" alt="Song Art 2" class="song-art" />
+            <img src="img/Her.jpeg" alt="Song Art 2" class="song-art" />
           </div>
           <div
             class="song-item"
-            onclick="playSong('audio/Rue des trois frères - Frabrizio Paterlini.mp3')"
+            onclick="playSong('audio/Wish - Trippie Redd.mp3')"
           >
-            <img src="img/song-art3.jpeg" alt="Song Art 3" class="song-art" />
+            <img src="img/Wish.jpeg" alt="Song Art 3" class="song-art" />
           </div>
         </div>
       </div>
@@ -69,9 +78,6 @@
     <audio
       id="audio-player"
       style="display: none"
-      controls
-      autplay
-      muted
     ></audio>
     <!-- Hidden audio player -->
 

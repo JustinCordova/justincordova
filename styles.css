@@ -7,6 +7,9 @@ body {
   height: 100vh; /* Full height of the viewport */
   margin: 0;
   overflow: hidden;
+  background-image: url("img/justinbuffalo.jpg");
+  background-size: 100vw 100vh;
+  /* cursor: none; /* Hide the default cursor */ 
 }
 
 /* Background video styling */
@@ -29,21 +32,50 @@ header {
   text-align: center;
   z-index: 1;
 }
+header h1 {
+  font-family: "Dancing Script", cursive;
+  font-size: 48px;
+  color: white;
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+  text-align: center; /* Center the name */
+}
+
+header h1 span {
+  display: inline-block; /* Allow the letters to be transformed individually */
+  transition: transform 0.2s ease; /* Smooth transition for the rising effect */
+}
+
+header h1 span:hover {
+  transform: translateY(-5px); /* Rise up slightly on hover */
+}
 
 /* Navigation menu styling */
 nav ul {
   list-style-type: none;
   padding: 0;
+  margin: 0;
+  text-align: center;
 }
 
 nav ul li {
   display: inline;
-  margin: 0 15px;
+  margin-right: 20px;
 }
 
-nav a {
+nav ul li a {
+  font-family: "Cabin", sans-serif;
+  font-size: 18px;
   color: white;
   text-decoration: none;
+  transition: transform 0.3s ease, text-shadow 0.3s ease; /* Smooth transition */
+}
+
+nav ul li a:hover {
+  transform: scale(1.1); /* Slightly increase size on hover */
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.8),
+    0 0 20px rgba(255, 255, 255, 0.6); /* Glowing text effect */
 }
 
 /* Main content styling */

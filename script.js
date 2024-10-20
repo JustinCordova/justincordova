@@ -15,7 +15,7 @@ window.onload = function() {
   
   // After autoplay starts, unmute and set to the desired volume
   setTimeout(() => {
-    setVolume(0.2); // Set volume to 20% after unmuting
+    setVolume(0.05); // Set volume to 20% after unmuting
   }, 1000); // 1 second delay to ensure autoplay starts
 };
 
@@ -34,4 +34,10 @@ function togglePlayPause() {
     audioPlayer.pause();
     playPauseButton.classList.remove("playing");
   }
+  document.addEventListener("mousemove", (event) => {
+    const cursorDot = document.getElementById("custom-cursor");
+    cursorDot.style.left = event.pageX + "px";
+    cursorDot.style.top = event.pageY + "px";
+});
+
 }

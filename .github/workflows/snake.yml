@@ -23,7 +23,7 @@ jobs:
     steps:
       # Generates a snake game from a GitHub user's contributions graph, outputting SVG animations
       - name: Generate GitHub Contribution Grid Snake Animation
-        uses: Platane/snk/svg-only@v4  # Ensure this action is updated and compatible with Node.js 20
+        uses: Platane/snk/svg-only@v3  # Ensure this action is updated and compatible with Node.js 20
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |

@@ -13,3 +13,6 @@ and playing tennis!
 
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@justinavodroc)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/justinalolorcordova/)
+
+![GitHub Contribution Grid Snake Animation (Dark Mode)](https://raw.githubusercontent.com/JustinCordova/my-awesome-repo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Contribution Grid Snake Animation (Light Mode)](https://raw.githubusercontent.com/JustinCordova/my-awesome-repo/output/github-contribution-grid-snake.svg#gh-light-mode-only)

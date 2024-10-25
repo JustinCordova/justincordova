@@ -60,7 +60,7 @@ I also love music!
    <strong><a href="<a href="https://open.spotify.com/user/justinavodroc?si=c4e94f666b454f3b" target="_blank">My Profile</a></strong>
    <h6 align="center">
 
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=justinavodroc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=justinavodroc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
 
 </h6>
 </details>

@@ -17,6 +17,7 @@ and playing tennis!
 ![JustinCordova's Stats](https://github-readme-stats.vercel.app/api?username=JustinCordova&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 ![JustinCordova's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JustinCordova&theme=dracula&hide_border=false)
 ![JustinCordova's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinCordova&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/JustinCordova/github-readme-stats)
 
 ![GitHub Contribution Grid Snake Animation (Dark Mode)](https://raw.githubusercontent.com/JustinCordova/justincordova/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Contribution Grid Snake Animation (Light Mode)](https://raw.githubusercontent.com/JustinCordova/justincordova/output/github-contribution-grid-snake.svg#gh-light-mode-only)

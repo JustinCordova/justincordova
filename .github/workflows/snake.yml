@@ -1,12 +1,9 @@
 name: Generate Snake Game
 
-# Controls when the action will run.
 on:
-    schedule: # Runs at 12am UTC daily
-      - cron: "0 0 * * *"
-  
-    # Allows manual workflow trigger
-    workflow_dispatch:
+  schedule:
+    - cron: '0 5 * * *'  # Runs at 5 AM UTC (12 AM EST) every day
+  workflow_dispatch:
 
 jobs:
   build:
@@ -14,13 +11,13 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: generate-snake-game-from-github-contribution-grid
         uses: Platane/snk@v3.2.0
         with:
-          github_user_name: JustinCordova # Replace with your actual GitHub username
-          github_token: ${{ secrets.GITHUB_TOKEN }} # Use the default token provided by GitHub
+          github_user_name: JustinCordova  # Replace with your actual GitHub username
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # Use the GitHub token for authentication
 
       - name: Upload Snake Game
         uses: actions/upload-artifact@v3

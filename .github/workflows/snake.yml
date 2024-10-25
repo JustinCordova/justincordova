@@ -1,0 +1,30 @@
+name: Generate Snake Game
+
+# Controls when the action will run.
+on:
+  schedule: # Runs at 12am UTC daily
+    - cron: "0 0 * * *"
+
+  # Allows manual workflow trigger
+  workflow_dispatch:
+
+# Job to generate snake game from GitHub contributions grid
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks out your repository under $GITHUB_WORKSPACE, so the job can access it
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      # Generates the snake game from the GitHub contributions grid
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3.2.0
+
+      # Upload the resulting image as an artifact
+      - name: upload snake game
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-game
+          path: dist/github-contribution-grid-snake.svg

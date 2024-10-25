@@ -17,12 +17,12 @@ I enjoy playing video games, playing sports, going to the gym, and most importan
 <br/>
 I also love music!
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
 #### Let's connect! 📌
 
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@justinavodroc)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/justinalolorcordova/)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <details>
 <summary><b>🛠️ Skills</b></summary>
@@ -65,7 +65,6 @@ I also love music!
 </h6>
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
 ![GitHub Contribution Grid Snake Animation (Dark Mode)](https://raw.githubusercontent.com/JustinCordova/justincordova/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Contribution Grid Snake Animation (Light Mode)](https://raw.githubusercontent.com/JustinCordova/justincordova/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

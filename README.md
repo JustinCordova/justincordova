@@ -47,9 +47,11 @@ I also love music!
 
 <h6 align="center">
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustinCordova&theme=aura_dark)
+![JustinCordova's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinCordova&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 ![JustinCordova's Stats](https://github-readme-stats.vercel.app/api?username=JustinCordova&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 ![JustinCordova's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JustinCordova&theme=dracula&hide_border=false)
-![JustinCordova's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinCordova&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+
 
 </h6>
 </details>

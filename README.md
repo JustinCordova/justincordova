@@ -14,6 +14,21 @@ and playing tennis!
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@justinavodroc)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/justinalolorcordova/)
 
+<summary><b>Skills</b></summary>
+<div>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cpp,java,python,php)](https://skillicons.dev)
+
+</div>
+   
+<summary><b>Learning</b></summary>
+<div>
+  
+[![Learning](https://skillicons.dev/icons?i=htmx,go,nextjs,dart,flutter)](https://skillicons.dev)
+  
+</div>
+</details>
+
 <details>
   <summary><b>Github Stats 📊</b></summary>
 

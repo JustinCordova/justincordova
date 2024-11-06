@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-### Hi! <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="25"/>
+### Hi <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="25"/>
 
 ```c++
 #include <iostream>
@@ -9,17 +9,16 @@ int main() {
     std::string name = "Justin Cordova";
     std::string role = "Software Engineer";
     std::string location = "Stewartsville, New Jersey";
-    std::string university = "NJIT - New Jersey Institute of Technology";
-
+    std::string university = "NJIT";
     return 0;
 }
 ```
 
 I'm [**Justin**](https://justincordova.pages.dev/), a software engineer from Stewartsville, New Jersey 📍.
 
-I'm primarily interested in **full-stack development** and **systems development**. 
+My interests fall under **full-stack development** and **systems development**. 
 
-Currently i'm pursing a BSCS [**@NJIT**] 💻. 
+Currently i'm pursing a BSCS [**@NJIT**] . 
 <img src="https://emojis.slackmojis.com/emojis/images/1687735546/66769/smart.gif?1687735546" width="25"/>
 
 Also i'm looking for any internship oppurtunities to develop career related skills.

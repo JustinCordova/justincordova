@@ -1,17 +1,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 ### Hi <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="25"/>
 
-```c++
-#include <iostream>
-#include <string>
+```assembly
+section .data
+    name        db 'Justin Cordova', 0
+    role        db 'Software Engineer', 0
+    location    db 'Stewartsville, New Jersey', 0
+    university  db 'NJIT', 0
 
-int main() {
-    std::string name = "Justin Cordova";
-    std::string role = "Software Engineer";
-    std::string location = "Stewartsville, New Jersey";
-    std::string university = "NJIT";
-    return 0;
-}
+section .text
+    global _start
+
+_start:
+    mov rax, 60
+    xor rdi, rdi
+    syscall
 ```
 
 I'm [**Justin**](https://justincordova.pages.dev/), a software engineer from Stewartsville, New Jersey 📍.

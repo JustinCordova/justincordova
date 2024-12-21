@@ -1,4 +1,3 @@
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 ### Hi <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="25"/>
 
 ```assembly
@@ -50,7 +49,7 @@ I like munching on food.
 <summary><b>🎯 Learning</b></summary>
 <div>
   
-[![Learning](https://skillicons.dev/icons?i=htmx,go,react,nextjs,dart,flutter,rust)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=go,react,nextjs,dart,flutter,rust)](https://skillicons.dev)
   
 </div>
 </details>

@@ -42,14 +42,14 @@ I like munching on food.
 <summary><b>🛠️ Skills</b></summary>
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,cpp,c,java,python,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,js,php,html,css,bootstrap)](https://skillicons.dev)
 
 </div>
    
 <summary><b>🎯 Learning</b></summary>
 <div>
   
-[![Learning](https://skillicons.dev/icons?i=go,react,nextjs,dart,flutter,rust)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=mysql,go,react,nodejs,nextjs)](https://skillicons.dev)
   
 </div>
 </details>

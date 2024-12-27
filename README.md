@@ -16,7 +16,7 @@ _start:
     syscall
 ```
 
-I'm [**Justin**](https://justincordova.pages.dev/), I'm from Stewartsville, New Jersey 📍.
+I'm [**Justin**](https://justincordova.pages.dev/), i'm from Stewartsville, New Jersey 📍.
 
 My interests fall under **full-stack development** and **AI**. 
 

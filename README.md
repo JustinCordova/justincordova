@@ -18,7 +18,7 @@ _start:
 
 I'm [**Justin**](https://justincordova.pages.dev/), I'm from Stewartsville, New Jersey 📍.
 
-My interests fall under **full-stack development** and **cybersecurity**. 
+My interests fall under **full-stack development** and **AI**. 
 
 Currently i'm pursing a BSCS [**@NJIT**] . 
 <img src="https://emojis.slackmojis.com/emojis/images/1687735546/66769/smart.gif?1687735546" width="25"/>

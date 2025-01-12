@@ -42,7 +42,7 @@ I like munching on food.
 <summary><b>🛠️ Skills</b></summary>
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,js,php,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,js,react,vite,php,html,css,bootstrap)](https://skillicons.dev)
 
 </div>
    

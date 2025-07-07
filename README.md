@@ -27,7 +27,7 @@ Also i'm looking for any internship oppurtunities to develop career related skil
 
 Outside of work, I'm interested in following the developments of science and technology. 
 <br/>
-I like munching on food. 
+I like food. 
 <img src="https://emojis.slackmojis.com/emojis/images/1729830647/102659/smellingyouq.gif?1729830647" width="25"/>
 <br/>
 

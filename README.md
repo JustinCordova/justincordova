@@ -38,10 +38,11 @@ I like food.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <details>
-<summary><b>🛠️ Skills</b></summary>
+<summary>
+<b>🛠️ Skills</b></summary>
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,js,ts,react,tailwind,nodejs,nextjs,expressbash,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,js,ts,react,tailwind,nodejs,nextjs,express,bash,git)](https://skillicons.dev)
 </div>
 
 <summary><b>🎯 Learning</b></summary>

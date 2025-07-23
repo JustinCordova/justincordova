@@ -41,14 +41,14 @@ I like food.
 <summary><b>🛠️ Skills</b></summary>
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,php,html,css,react,nodejs,nextjs,express,django,vite,bootstrap,tailwind,mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,js,ts,react,tailwind,nodejs,nextjs,expressbash,git)](https://skillicons.dev)
 </div>
 
 <summary><b>🎯 Learning</b></summary>
 
 <div>
 
-[![Learning](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
 
 </div>
 
